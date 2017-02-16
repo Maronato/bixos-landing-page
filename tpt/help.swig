@@ -26,43 +26,28 @@
 			</div>
 			<div class="drop">
 				<div class="drop_question">
-					<span><i class="fa fa-plus"></i> Vou ter aulas nos primeiros semestres na FEEC ou no IC?</span>
+					<span><i class="fa fa-plus"></i> Vou ter aulas nos primeiros semestres na FEEC ou no CB?</span>
 				</div>
 				<div class="drop_answer">
 					<p>
-						A maioria das aulas será ministrada nos Ciclos Básicos I e II, além de algumas aulas no IC 3.
+						A maioria das aulas será ministrada nos Ciclos Básicos I e II, apenas algumas serão na FEEC.
 					</p>
 				</div>
 			</div>
 			<div class="drop">
 				<div class="drop_question">
-					<span><i class="fa fa-plus"></i> O que é AX / AA / AB?</span>
+					<span><i class="fa fa-plus"></i> Quando ocorrem as aulas no SENAI e como chego lá?</span>
 				</div>
 				<div class="drop_answer">
 					<p>
-						Essas siglas indicam as modalidades do curso de Engenharia da Computação. Ao entrar no curso o aluno tem como habilitação, AX. No 3º ano, o aluno deve escolher em qual modalidade ele gostará de se especializar: AA - Sistemas de Computação (A-zóide) ou AB - Sistemas e Processos Industriais (B-zóide).
+						A primeira aula do SENAI ocorre no sábado pela manhã, onde vocês receberão o calendário com as manhãs e tardes nas quais ocorrerão as próximas aulas. Nem todos tem aulas nos mesmos sábados nem nos mesmos turnos, fiquem ligados.
 					</p>
 					<p>
-						AA: almeja formar profissionais atuando no projeto e desenvolvimento de sistemas integrados de informação, de computação de grande porte, redes de computadores, software básico e aplicações.
+						A FEEC freta um ônibus para levar os alunos até o SENAI. O ônibus sai do estacionamento da Biblioteca Central (BCCL) por vota das 6h00min. Verifiquem com seus veteranos do CABS sobre possíveis mudanças neste horário. É comum haver alterações e cancelamentos do ônibus sem aviso aos alunos.
 					</p>
-					<p>
-						AB: dedica-se à formação de profissionais na área de sistemas que interagem com diversos processos presentes em engenharia. Este profissional está apto a projetar, construir, configurar e determinar a utilização de sistemas que captam, transmitem, processam e atuam sobre a informação registrada na forma de sinais de natureza diversa nos distintos ramos da engenharia.
-					</p>
-					<p>Para saber mais, fique ligado nas <a href="http://www.caco.ic.unicamp.br/portal/eventos/azoidebezoide/" target="_blank">palestras do CACo!</a></p>
 				</div>
 			</div>
 		</div>
-		<div class="faq_cat">
-			<div class="drop">
-				<div class="drop_question">
-					<span><i class="fa fa-plus"></i> O que é 100 NOSSÃO?</span>
-				</div>
-				<div class="drop_answer">
-					<p>
-						Barulho, animação e festa! São características que estão sempre juntas ao “100 Nossão”. Este nada mais é do que um carrinho de supermercado com alguns Mega-Watts de som! Inicialmente patrocinado pela HBuster® e adquirido oficialmente em 2005, tem sido o maior agitador de festas e churrascos da Unicamp e não deixa ninguém dormir no Intercomp.
-					</p>
-				</div>
-			</div>
 			<div class="drop">
 				<div class="drop_question">
 					<span><i class="fa fa-plus"></i> Como faço para pegar um livro nas bibliotecas?</span>
@@ -70,25 +55,6 @@
 				<div class="drop_answer">
 					<p>
 						Você deverá se cadastrar no sistema de bibliotecas da UNICAMP. Vá até a Biblioteca Central e cadastre-se o quanto antes!
-					</p>
-				</div>
-			</div>
-			<div class="drop">
-				<div class="drop_question">
-					<span><i class="fa fa-plus"></i> Queria ser h4ckz0r. Como faço?</span>
-				</div>
-				<div class="drop_answer">
-					<p>
-						Então vc quer ser ráqui das tela prêta? Primeiro mude seu nome no facebook para algo do tipo R0n4ld0 H4ck3r, isso vai impor respeito aos seus amiguinhos. Depois, coloque como foto de capa alguma imagem bacanuda da trilogia Matrix. ATENÇÃO - É OBRIGATÓRIO TER LETRINHAS VERDES CAINDO! Nesse tempo, aproveite para mudar sua foto para qualquer coisa com a máscara do Guy Fawkes (A.K.A Máscara do Anonymous). Passado essa etapa você já vai ser um ráqui k1d.
-					</p>
-					<p>
-						Então, abra o terminal do seu computador, se ele tiver algum tema de cores, certifique-se de colocar fundo preto com letrinhas verdes, dê um ping em bol.com.br, tire um print e poste na sua conta tunada do f4c3800k para mostrar como você é um moleque/uma mina manjante das linha de comando.
-					</p>
-					<p>
-						Para continuar, mostre que você é uma pessoa do submundo da interwebs e comece a usar TOR. Navegue pela deep web (chapéu de pirata e tapa olho são opcionais bem vindos!) se precisar, busque no G00gl3 por links transantes para os porões da net. Instale o Kali Linux, poste no seu f4ce "the quieter you become, the more you are able to hear" e aguarde pelo que o Grande Mago Hckr mande um inbox para você com um tutorial do Aircrack-NG. Abra de novo sua linha de comando, capture pacotes de todas as redes ao redor e deixe seu computador rodando um brute force para achar as senhas (uns 5min devem ser o bastante). Mude o nome dos uaifais dos seus vizinhos para o seu novo nome h4ck3r e parabéns! Você agora pode andar pelas ruas com sua roupa de couro e de óculos escuros, lutando kung fu com pessoas de terno enquanto invade servidores
-					</p>
-					<p>
-						P.S.: Hey, bixão, se você realmente se interessa por segurança, dá um alô para a galera do <a href="http://www.lasca.ic.unicamp.br/" target="_blank">Lasca</a> (;
 					</p>
 				</div>
 			</div>
@@ -136,7 +102,7 @@
 		</ol>
 	</div>
 	<h3>Grupo do Facebook</h3>
-	<p style="margin-top: 0;">Se você ainda não faz parte do grupo "Bix*s Computação Unicamp 2017" peça a algum veterano para adicioná-lo!</p>
+	<p style="margin-top: 0;">Se você ainda não faz parte do grupo "Bixos e Bixetes Engenharia Elétrica 017 - UNICAMP" peça a algum veterano para adicioná-lo!</p>
 	<footer>
 		Made with <a href="https://github.com/AAACEC/bixos-landing-page" target="_blank"><i class="fa fa-heart"></i></a> by <a href="https://github.com/rmobis" target="_blank">Phapha</a> &amp; <a href="https://github.com/dsfugimoto" target="_blank">Serginho</a> @ AAACEC 2017
 	</footer>
