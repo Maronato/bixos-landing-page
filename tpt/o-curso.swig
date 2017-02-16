@@ -19,7 +19,7 @@
 			</div>
 			<div class="stat_detail">
 				<p><i class="fa fa-trophy"></i> Pontos</p>
-				<i>Nota máxima pelo CAPES, de 2010 a 2016</i>
+				<i>Nota máxima pelo CAPES, de 2010 a 2012</i>
 			</div>
 		</div>
 		<div class="stat">
@@ -39,7 +39,7 @@
 			</div>
 			<div class="stat_detail">
 				<p><i class="fa fa-clock-o"></i> Anos</p>
-				<i>46 anos de parceria junto `FEEC</i>
+				<i>47 anos sendo 21 destes de parceria com o IC</i>
 			</div>
 		</div>
 	</div>
