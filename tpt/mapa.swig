@@ -73,8 +73,7 @@
 			<li><b>FEEC:</b> Faculdade de Engenharia Elétrica e de Computação<br><span class="small">Fica mais próximo da entrada da Avenida 1</span></li>
 		</ul>
 		<ul class="listFixed">
-			<li><b>IC 2:</b> Bloco do Instituto de Computação<br><span class="small">Bloco onde fica a secretaria do IC.</span></li>
-			<li><b>IC 3:</b> Bloco do Instituto de Computação<br><span class="small">Bloco situado acima do IC 2.</span></li>
+			<li><b>SENAI:</b> SENAI Roberto Mange<br><span class="small">Melhor instituto não-oficial da Unicamp</span></li>
 			<li><b>Bandejão RU:</b> Restaurante Universitário<br><span class="small">Fica mais próximo da entrada da Avenida 2.</span></li>
 			<li><b>Bandejão RS:</b> Restaurante Universitário<br><span class="small">Fica mais próximo do IC 3.</span></li>
 			<li><b>Bandejão RA:</b> Restaurante Universitário<br><span class="small">Fica mais próximo da FEEC.</span></li>

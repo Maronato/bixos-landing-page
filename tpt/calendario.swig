@@ -82,10 +82,10 @@
 				</li>
 				<li>
 					<div class="timeline_title clearfix">
-						<div>Churras à Trois VI</div>
+						<div>Choppada de Confirmação da EE</div>
 						<div class="badge party">Social</div>
 					</div>
-					<div class="timeline_desc">A primeira festa da Computação! (FONO + ENF + COMP)</div>
+					<div class="timeline_desc">A primeira festa da Engenharia Elétrica! (Entrada de bixo e bixete é grátis!)</div>
 				</li>
 				<li>
 					<div class="timeline_title">

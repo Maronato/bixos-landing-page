@@ -48,6 +48,7 @@
 				</div>
 			</div>
 		</div>
+		<div class="faq_cat">
 			<div class="drop">
 				<div class="drop_question">
 					<span><i class="fa fa-plus"></i> Como faço para pegar um livro nas bibliotecas?</span>
@@ -104,6 +105,6 @@
 	<h3>Grupo do Facebook</h3>
 	<p style="margin-top: 0;">Se você ainda não faz parte do grupo "Bixos e Bixetes Engenharia Elétrica 017 - UNICAMP" peça a algum veterano para adicioná-lo!</p>
 	<footer>
-		Made with <a href="https://github.com/AAACEC/bixos-landing-page" target="_blank"><i class="fa fa-heart"></i></a> by <a href="https://github.com/rmobis" target="_blank">Phapha</a> &amp; <a href="https://github.com/dsfugimoto" target="_blank">Serginho</a> @ AAACEC 2017
+		Made with <a href="https://github.com/Maronato/bixos-landing-page" target="_blank"><i class="fa fa-heart"></i></a> by <a href="https://github.com/Maronato" target="_blank">Maronato</a> &amp; <a href="https://github.com/rmobis" target="_blank">Phapha</a> &amp; <a href="https://github.com/dsfugimoto" target="_blank">Serginho</a>
 	</footer>
 </section>

@@ -23,7 +23,7 @@
 			</div>
 		</div>
 		<div class="stat">
-			<h5>IC</h5>
+			<h5>Professores</h5>
 			<div class="stat_number">
 				<span class="odometer" data-odometer-value="40">0</span>
 			</div>

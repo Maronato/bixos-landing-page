@@ -1,16 +1,16 @@
 
 <section id="extra" class="content">
 	<h1>Atividades extracurriculares: O que fazer na UNICAMP, além de estudar?</h1>
-	<h4>A parte legal da computação, tirando as aulas é claro!</h4>
+	<h4>A parte legal da elétrica, tirando as aulas é claro!</h4>
 	<h3>Entidades</h3>
 	<div class="entities clearfix">
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/aaacec.svg" width="45%">
+				<img src="img/aaafee.jpg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>AAACEC</h3>
+					<h3>AAAFEE</h3>
 					<p>
 						A Associação Atlética Acadêmica da Ciência e Engenharia da Computação é a entidade que promove
 						a prática de esportes na Computação, além de realizar festas e eventos de integração.
@@ -21,11 +21,11 @@
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/caco.svg" width="45%">
+				<img src="img/cabs.svg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>CACO</h3>
+					<h3>CABS</h3>
 					<p>
 						O CACo é o centro acadêmico da Computação, entidade trabalha para garantir os interesses
 						dos estudantes e melhorar o curso como um todo.
@@ -36,55 +36,39 @@
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/conpec.svg" width="80%">
+				<img src="img/3E.svg" width="80%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>CONPEC</h3>
+					<h3>3E</h3>
 					<p>
-						A Conpec é a empresa júnior dos cursos de Ciência e Engenharia de Computação. Ótima oportunidade
-						para aplicar conhecimentos teóricos em prática, numa situação de mercado, com clientes, prazos e soluções reais.
+						A 3E é a empresa júnior da Engenharia Elétrica. Oferece uma oportunidade de vivência empresarial nas áreas de administrção, mercado e recursos humanos, num ambiente que visa o desenvolvimento dos seus membros.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="http://www.conpec.com.br" target="_blank">http://conpec.com.br</a></p>
+					<p><i class="fa fa-link"></i> <a href="http://www.jr3e.com.br/" target="_blank">http://www.jr3e.com.br/</a></p>
 				</span>
 			</div>
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/computing4all.svg" width="55%">
+				<img src="img/see.svg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>COMPUTING 4 ALL</h3>
+					<h3>SEE</h3>
 					<p>
-						O Computing 4 All é um grupo criado no IC/UNICAMP com a missão de incentivar a diversidade de
-						gênero na computação, promovendo e apoiando ações que consolidem que esta é uma área para todos.
+						A Semana da Engenharia Elétrica busca apresentar aos participantes uma visão mais ampla das diversas áreas da Engenharia e aproximá-los da realidade de cada carreira através de palestras, minicursos e visitas técnicas.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="http://computing4all.ic.unicamp.br" target="_blank">http://computing4all.ic.unicamp.br</a></p>
+					<p><i class="fa fa-link"></i> <a href="https://www.facebook.com/semanadeengenharia.eletrica" target="_blank">fb.com/semanadeengenharia.eletrica</a></p>
 				</span>
 			</div>
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/valorosa.svg" width="45%">
+				<img src="img/ieee.svg">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>VALOROSA</h3>
-					<p>
-						Bateria universitária da Computação responsável por animar festas e empurrar a torcida em eventos esportivos (ou não) como o Intercomp, Interbatuc e UPA.
-					</p>
-					<p><i class="fa fa-link"></i> <a href="http://aaacec.com/bateria" target="_blank">http://aaacec.com/bateria</a></p>
-				</span>
-			</div>
-		</div>
-		<div class="entity">
-			<div class="entity_front">
-				<img src="img/uesl.svg"> 
-			</div>
-			<div class="entity_back">
-				<span class="entity_text">
-					<h3>UESL</h3>
+					<h3>IEEE</h3>
 					<p>
 						Liga de Esportes Eletrônicos que teve origem dentro da AAACEC e hoje representa a UNICAMP inteira em campeonatos inter-universitários, contando com linu-ups de LoL, CS:GO, FIFA e HearhStone.
 					</p>
@@ -231,10 +215,10 @@
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
-						<div>SECOMP</div>
+						<div>SEE</div>
 						<div class="badge">Acadêmico</div>
 					</div>
-					<div class="timeline_desc">Semana da computação que conta com palestras, workshops e muito mais</div>
+					<div class="timeline_desc">Semana da Engenharia Elétrica que conta com palestras, workshops e muito mais</div>
 				</li>
 			</ul>
 		</li>
