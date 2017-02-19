@@ -10,6 +10,26 @@ reuniões, abrir uma [issue](https://github.com/AAACEC/bixos-landing-page/issues
 ou submeter um [pull request](https://github.com/AAACEC/bixos-landing-page/pulls).
 Já existe uma lista de tarefas a serem feitas, que pode ser consultada abaixo:
 
+## Instruções para rodar local
+
+Tenha NPM e Node instalados
+
+Execute, dentro da pasta:
+
+`npm install --save-dev`
+
+Para rodar local, execute
+
+`gulp`
+
+E acesse `http://localhost:8080/`
+
+## Como subir alterações para o site
+
+Configurado o ambiente local, execute
+
+`gulp deploy`
+
 ## Todo
 
 - Usar [Bower](http://bower.io/) ou [npm](https://www.npmjs.com/) para fazer o
