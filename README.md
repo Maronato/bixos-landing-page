@@ -1,7 +1,7 @@
-# Bixos Landing Page - AAACEC
+# Bixos Landing Page - EE
 
-Esta é a landing page com o objetivo de ajudar os bixos e introduzi-los à AAACEC
-e ao mundo da computação.
+Esta é a landing page com o objetivo de ajudar os bixos e introduzi-los à EE
+e ao mundo da Engenharia Elétrica.
 
 ## Contribuições
 
@@ -22,3 +22,7 @@ ou tirar dúvidas mais específicas, sinta-se a vontade para entrar em contato:
 
 - [David Fugimoto (a.k.a Serginho)](https://github.com/dsfugimoto)
 - [Raphael Mobis (a.k.a Phapha)](https://github.com/rmobis)
+
+Esse fork é mantido por:
+
+- [Gustavo Maronato](https://github.com/Maronato)
