@@ -3,6 +3,8 @@
 ### Distribution Folder ###
 dist
 node_modules
+.publish
+publish
 
 ### SublimeText ###
 # cache files for sublime text
