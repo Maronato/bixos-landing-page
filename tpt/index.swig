@@ -32,7 +32,7 @@
 		{% include 'help.swig' %}
 	</div>
 
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNABS_mzgbn6Y393_Qw4KUw7lm40fW7BE"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCojkmjophQIKv9ie2ao4B0nQzDGpFzvbw"></script>
 
 		<script src="js/bixos.min.js"></script>
 		<script>
