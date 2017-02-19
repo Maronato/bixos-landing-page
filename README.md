@@ -1,7 +1,6 @@
 # Bixos Landing Page - EE
 
-Esta é a landing page com o objetivo de ajudar os bixos e introduzi-los à EE
-e ao mundo da Engenharia Elétrica.
+Esta é a landing page com o objetivo de ajudar os bixos e introduzi-los ao mundo da Engenharia Elétrica.
 
 ## Contribuições
 
