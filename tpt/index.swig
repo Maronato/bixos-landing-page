@@ -13,10 +13,6 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
 		<script src="//cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
-		<script
-  src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
-  integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
-  crossorigin="anonymous"></script>
 		<title>Seja bem-vind* Bix* Elétrica UNICAMP 2017!</title>
 	</head>
 	<body>
