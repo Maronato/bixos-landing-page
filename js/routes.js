@@ -4,7 +4,8 @@
 
 	var $routeOrigin = document.querySelector('#route-origin'),
 		$routeDest   = document.querySelector('#route-dest'),
-		$mapCanvas   = document.querySelector('#map-canvas');
+		$mapCanvas   = document.querySelector('#map-canvas'),
+		$routeMethod   = document.querySelector('#route-method');
 
 	var map,
 		directionsDisplay,
@@ -29,12 +30,26 @@
 
 	function calculateRoute() {
 		var origin = $routeOrigin.value.split(','),
-			dest   = $routeDest.value.split(',');
+			dest   = $routeDest.value.split(','),
+			method = $routeMethod.value;
+
+		if (method == 'walking'){
+			method = google.maps.TravelMode.WALKING;
+		}
+		else if (method == 'driving'){
+			method = google.maps.TravelMode.DRIVING;
+		}
+		else if (method == 'transit'){
+			method = google.maps.TravelMode.TRANSIT;
+		}
+		else {
+			method = google.maps.TravelMode.BICYCLING;
+		}
 
 		var request = {
 			origin: new google.maps.LatLng(parseFloat(origin[0], 10), parseFloat(origin[1], 10)),
 			destination: new google.maps.LatLng(parseFloat(dest[0], 10), parseFloat(dest[1], 10)),
-			travelMode: google.maps.TravelMode.WALKING,
+			travelMode: method,
 		};
 
 		directionsService.route(request, function (response, status) {
@@ -48,4 +63,5 @@
 
 	$routeOrigin.addEventListener('change', calculateRoute);
 	$routeDest.addEventListener('change', calculateRoute);
+	$routeMethod.addEventListener('change', calculateRoute);
 })();

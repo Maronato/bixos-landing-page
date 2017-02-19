@@ -30,29 +30,36 @@
 		<div>De: </div>
 		<div class="select_control">
 			<select id="route-origin">
-				<option value="-22.822157,-47.069908" selected>Avenida 1</option>
-				<option value="-22.818498,-47.072880">Avenida 2</option>
-				<option value="-22.817617,-47.068376">CB</option>
-				<option value="-22.817699,-47.071109">PB</option>
-				<option value="-22.820818,-47.066615">FEEC</option>
-				<option value="-22.814696,-47.064176">IC 2</option>
-				<option value="-22.813544,-47.063478">IC 3</option>
-				<option value="-22.815311,-47.062655">Bandejão (RS)</option>
-				<option value="-22.817403,-47.071238">Bandejão (RU)</option>
+				<option data-method="walking" value="-22.822157,-47.069908">Avenida 1</option>
+				<option data-method="walking" value="-22.818498,-47.072880">Avenida 2</option>
+				<option data-method="walking" value="-22.817617,-47.068376" selected>CB</option>
+				<option data-method="walking" value="-22.817699,-47.071109">PB</option>
+				<option data-method="walking" value="-22.820818,-47.066615">FEEC</option>
+				<option data-method="transit" value="-22.913984,-47.0679922">SENAI</option>
+				<option data-method="walking" value="-22.817403,-47.071238">Bandejão (RU)</option>
+				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
 			</select>
 		</div>
 		<div>Para: </div>
 		<div class="select_control">
 			<select id="route-dest">
-				<option value="-22.822157,-47.069908">Avenida 1</option>
-				<option value="-22.818498,-47.072880">Avenida 2</option>
-				<option value="-22.817617,-47.068376" selected>CB</option>
-				<option value="-22.817699,-47.071109">PB</option>
-				<option value="-22.820818,-47.066615">FEEC</option>
-				<option value="-22.814696,-47.064176">IC 2</option>
-				<option value="-22.813544,-47.063478">IC 3</option>
-				<option value="-22.817403,-47.071238">Bandejão (RU)</option>
-				<option value="-22.815311,-47.062655">Bandejão (RS)</option>
+				<option data-method="walking" value="-22.822157,-47.069908">Avenida 1</option>
+				<option data-method="walking" value="-22.818498,-47.072880">Avenida 2</option>
+				<option data-method="walking" value="-22.817617,-47.068376">CB</option>
+				<option data-method="walking" value="-22.817699,-47.071109">PB</option>
+				<option data-method="walking" value="-22.820818,-47.066615" selected>FEEC</option>
+				<option data-method="transit" value="-22.913984,-47.0679922">SENAI</option>
+				<option data-method="walking" value="-22.817403,-47.071238">Bandejão (RU)</option>
+				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
+			</select>
+		</div>
+		<div>Transporte: </div>
+		<div class="select_control">
+			<select id="route-method">
+				<option value="walking" selected>Andando</option>
+				<option value="driving">Carro</option>
+				<option value="transit">Ônibus</option>
+				<option value="bicycling">Bicicleta</option>
 			</select>
 		</div>
 	</div>
