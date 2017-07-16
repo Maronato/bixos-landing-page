@@ -13,7 +13,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
 		<script src="//cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
-		<title>Seja bem-vind* Bix* Elétrica UNICAMP 2017!</title>
+		<title>Maromanual dos Bixos</title>
 	</head>
 	<body>
 	<div id="skrollr-body" class="wrapper">

@@ -21,22 +21,22 @@
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/cabs.svg" width="45%">
+				<img src="img/cabs.png" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
 					<h3>CABS</h3>
 					<p>
-						O CACo é o centro acadêmico da Computação, entidade trabalha para garantir os interesses
+						O CABS é o centro acadêmico da elétrica, entidade trabalha para garantir os interesses
 						dos estudantes e melhorar o curso como um todo.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="http://www.caco.ic.unicamp.br" target="_blank">http://caco.ic.unicamp.br</a></p>
+					<p><i class="fa fa-link"></i> <a href="http://www.cabs.fee.unicamp.br/" target="_blank">http://www.cabs.fee.unicamp.br/</a></p>
 				</span>
 			</div>
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/3E.svg" width="80%">
+				<img src="img/3E.svg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
@@ -64,15 +64,15 @@
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/ieee.svg">
+				<img src="img/ieee.svg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
 					<h3>IEEE</h3>
 					<p>
-						Liga de Esportes Eletrônicos que teve origem dentro da AAACEC e hoje representa a UNICAMP inteira em campeonatos inter-universitários, contando com linu-ups de LoL, CS:GO, FIFA e HearhStone.
+						Entidade local da IEEE na Unicamp.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="https://fb.com/UnicampElectronicSports" target="_blank">https://fb.com/UnicampElectronicSports</a></p>
+					<p><i class="fa fa-link"></i> <a href="https://www.ieee.org/index.html" target="_blank">https://www.ieee.org/index.html</a></p>
 				</span>
 			</div>
 		</div>
@@ -120,7 +120,7 @@
 		</div>
 	</div>
 
-	<h3>Treinos Esportivos</h3>
+	<!-- <h3>Treinos Esportivos</h3>
 	<p>Qualquer aluno devidamente matriculado pode participar dos treinos da AAACEC, basta pagar uma pequena mensalidade de <b>R$ 35,00</b> (Mensal) ou <b>R$ 110,00</b> (Semestral) para ter acesso a <b>TODOS OS ESPORTES COLETIVOS</b>!</p>
 	<p>E para vocês bixos o 1º mês é totalmente <b>FREE</b>! Veja as modalidades nas quais a AAACEC compete:</p>
 	<div class="training">
@@ -142,7 +142,7 @@
 			<li>Taekwondo</li>
 			<li>Xadrez</li>
 		</ul>
-	</div>
+	</div> -->
 
 	<h3 style="margin-botton: 0">Calendário de Eventos</h3>
 	<ul id="timeEvent" class="timeline">
@@ -158,17 +158,17 @@
 				</li>
 				<li>
 					<div class="timeline_title">
-						<div>Calouríadas</div>
-						<div class="badge sports">Esportivo</div>
-					</div>
-					<div class="timeline_desc">Evento disputado pelos bixos de todos os cursos da UNICAMP</div>
-				</li>
-				<li>
-					<div class="timeline_title">
-						<div class="resize">Bixoppada</div>
+						<div>Choppada de Confirmação</div>
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">Choppada oficial do curso, geralmente realizado em conjunto com os cursos de Enfermagem e Fonoaudiologia</div>
+				</li>
+				<li>
+					<div class="timeline_title">
+						<div>Subindo o Morro 2017</div>
+						<div class="badge party">Social</div>
+					</div>
+					<div class="timeline_desc">Campinas Hall juntamente com as atléticas AAAXD e AAAFEAGRI orgulhosamente apresentam a quarta edição da festa funk mais tradicional de Campinas: Subindo o Morro!</div>
 				</li>
 			</ul>
 		</li>
@@ -182,7 +182,13 @@
 					</div>
 					<div class="timeline_desc">Uma prévia do maior torneio esportivo dentro do campus</div>
 				</li>
-
+				<li>
+					<div class="timeline_title">
+						<div>CHOPPADA DES BIXES 2017</div>
+						<div class="badge party">Social</div>
+					</div>
+					<div class="timeline_desc">Biologia, Elétrica e Farmácia apresentam: CHOPPADA DES BIXES 2017!!!</div>
+				</li>
 			</ul>
 		</li>
 		<li class="li-3 clearfix" style="transform: translateY(100px); opacity: 0;">
@@ -225,6 +231,14 @@
 		<li class="li-6 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date set">Setembro</div>
 			<ul class="timeline_events">
+				<li>
+					<div class="timeline_title">
+						<div>InterHack 2017</div>
+						<div class="badge">Acadêmico</div>
+						<div class="badge party">Social</div>
+					</div>
+					<div class="timeline_desc">Primeiro Hackathon Interuniversitário do Brasil, de Graça!</div>
+				</li>
 				<li>
 					<div class="timeline_title">
 						<div>Olimpíadas</div>
@@ -270,10 +284,10 @@
 
 	<h3>Cursos diversos</h3>
 	<p>Fiquem ligados, pois existem diversos cursos sendo oferecidos dentro da UNICAMP, seja do seu curso ou não! Dentre eles destacam-se as <a style="color:#FF6D00;" href="http://fefnet172.fef.unicamp.br/forms/re-codesp/tabelao3.asp?periodo_fk=63" target="_blank">atividades da FEF</a>,  <a style="color:#FF6D00;" href="http://www.cabs.fee.unicamp.br/?t=6_Curso-de-Linguas" target="_blank">aulas de idiomas do CABS/CEL</a> e até <a style="color:#FF6D00;" href="http://ogrupodedanca.com.br/" target="_blank">aulas de dança!</a></p>
-
+<!--
 	<h3>Ensaios da Valorosa</h3>
-	<p>Assim como os treinos, qualquer aluno pode participar, mesmo que não saiba tocar nenhum instrumento! Se esse for o caso, não perca a chance!</p>
-	<ul class="timeline">
+	<p>Assim como os treinos, qualquer aluno pode participar, mesmo que não saiba tocar nenhum instrumento! Se esse for o caso, não perca a chance!</p> -->
+<!-- 	<ul class="timeline">
 		<li class="clearfix" style="margin-bottom: 20pt; transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Terças</div>
 			<ul class="timeline_events">
@@ -298,5 +312,5 @@
 				</li>
 			</ul>
 		</li>
-	</ul>
+	</ul> -->
 </section>

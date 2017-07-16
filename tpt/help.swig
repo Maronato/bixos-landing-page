@@ -74,7 +74,7 @@
 	<h3>Dicas</h3>
 	<div class="tips clearfix">
 		<ol class="listFixed">
-			<li>Os livros da Computação ficam no IMECC e na BAE (dentro da Biblioteca Central)</li>
+			<li>Os livros da Elétrica ficam no IFGW e na BAE (dentro da Biblioteca Central)</li>
 			<li>A partir do 2º semestre, use o <a href="http://gde.ir" target="_blank">GDE</a> para organizar sua grade de disciplinas!</li>
 			<li>As disciplinas oferecidas pelo IFGW (Instituto de física) possuem média 7, as demais possuem média 5</li>
 			<li>Peça conselhos e informações aos seus veteranos! Eles não mordem! (pelo menos a maioria)</li>
@@ -84,6 +84,7 @@
 			<li>Anote em algum lugar bem visível todas as datas de prova que você terá durante o semestre!</li>
 			<li>Geralmente as disciplinas possuem 3 provas, P1, P2 e P3. Estude bastante desde a P1 para não correr o risco de pegar exame!</li>
 			<li>Recorra aos seus veteranos quando precisar de materiais específicos para certas disciplinas, exemplo: Jaleco, óculos de proteção e luvas para a disciplina de química, QG100.</li>
+			<li>Precisa de material pra desenho técnico ou SENAI? Fale com seus veternos!</li>
 		</ol>
 	</div>
 	<h3>Utilidades</h3>
@@ -96,7 +97,7 @@
 			<li><a href="http://www.sbu.unicamp.br/portal/" target="_blank">SBU</a></li>
 		</ol>
 		<ol class="listFixed">
-			<li><a href="http://static.aaacec.com.br/bixos/manual2017.pdf" target="_blank">Manual do Bixo - AAACEC</a></li>
+			<!-- <li><a href="http://static.aaacec.com.br/bixos/manual2017.pdf" target="_blank">Manual do Bixo - AAACEC</a></li> -->
 			<li><a href="http://gde.ir" target="_blank">GDE</a></li>
 			<li><a href="http://www.dac.unicamp.br/portal/grad/calendarios/calgra2017/" target="_blank">Calendário de Graduação 2017</a></li>
 			<li><a href="http://sap.prefeitura.unicamp.br/sap/pesquisa_achados_perdidos.jsf" target="_blank">Achados e Perdidos</a></li>
