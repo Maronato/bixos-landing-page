@@ -26,7 +26,7 @@
 		<div class="bus"><a href="http://www.prefeitura.unicamp.br/documentos/HORARIO%20CIRCULAR%20NOTURNO" target="_blank">Horários</a></div>
 	</div>
 	<p></p>
-	<h3>Rotas a pé</h3>
+	<h3>Rotas pela Unicamp e Além</h3>
 	<div class="route_controls clearfix">
 		<div>De: </div>
 		<div class="select_control">
