@@ -3,9 +3,10 @@
 	<h4>O campus pode ser amedrontador à primeira vista, por isso anote as informações dos departamentos mais importantes, salve uma foto do mapa e verifique as rotas que irá usar!</h4>
 
 	<h3>Restaurantes Universitários</h3>
-	<p>Nos Restaurantes Universitários, comumente chamados de "Bandejão", o preço da refeição é de <b style="font-size: 1em;">R$ 2,00 para estudantes</b>. Você deve carregar sua <b style="font-size: 1em;">carteira estudantil</b> nos postos de recarga localizados do lado externo dos restaurantes para utilizá-los.</p>
+	<p>Nos Restaurantes Universitários, comumente chamados de "Bandejão", o preço da refeição é de <b style="font-size: 1em;">R$ <s>2,00</s> 3,00 para estudantes</b>. Você deve carregar sua <b style="font-size: 1em;">carteira estudantil</b> nos postos de recarga localizados do lado externo dos restaurantes para utilizá-los.</p>
 	<p>Os restaurantes mais utilizados são: Restaurante Universitário (RU), Refeitório da Administração (RA) e Restaurante da Saturnino (RS). Vale lembrar que há um cardápio vegetariano, no entanto o mesmo só é servido no RS.
 	<a href="http://www.prefeitura.unicamp.br/servicos/divisao-de-alimentacao/cardapio-dos-restaurantes" target="_blank">Cardápio dos Restaurantes</a></p>
+	<b>Tem Telegram? Use o <a href="@BandeconatoBot" target="_blank">Bot do Bandeco</a>!</b>
 
 	<h3>Circulares</h3>
 	<p>A UNICAMP possui 3 linhas de circulares que são gratuitos e facilitam a vida de quem necessita se deslocar pelo campus.</p>
@@ -38,6 +39,10 @@
 				<option data-method="transit" value="-22.913984,-47.0679922">SENAI</option>
 				<option data-method="walking" value="-22.817403,-47.071238">Bandejão (RU)</option>
 				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
+				<option data-method="walking" value="-22.8225874,-47.0661378">Bandejão (RA)</option>
+				<option data-method="walking" value="-22.8190715,-47.0731202">Star Clean</option>
+				<option data-method="walking" value="-22.8189718,-47.0739587">Star Trash</option>
+				<option data-method="walking" value="-22.820762,-47.0720151">Marambar</option>
 			</select>
 		</div>
 		<div>Para: </div>
@@ -51,6 +56,10 @@
 				<option data-method="transit" value="-22.913984,-47.0679922">SENAI</option>
 				<option data-method="walking" value="-22.817403,-47.071238">Bandejão (RU)</option>
 				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
+				<option data-method="walking" value="-22.8225874,-47.0661378">Bandejão (RA)</option>
+				<option data-method="walking" value="-22.8190715,-47.0731202">Star Clean</option>
+				<option data-method="walking" value="-22.8189718,-47.0739587">Star Trash</option>
+				<option data-method="walking" value="-22.820762,-47.0720151">Marambar</option>
 			</select>
 		</div>
 		<div>Transporte: </div>
@@ -71,12 +80,15 @@
 			<li><b>CB:</b> Ciclo Básico I<br><span class="small">Fica na praça central, mais afastado das entradas.</span></li>
 			<li><b>PB:</b> Ciclo Básico II<br><span class="small">Fica mais próximo do Bandejão. Dá para vê-lo da entrada da Avenida 2.</span></li>
 			<li><b>FEEC:</b> Faculdade de Engenharia Elétrica e de Computação<br><span class="small">Fica mais próximo da entrada da Avenida 1</span></li>
+			<li><b>SENAI:</b> SENAI Roberto Mange<br><span class="small">Melhor instituto não-oficial da Unicamp</span></li>
 		</ul>
 		<ul class="listFixed">
-			<li><b>SENAI:</b> SENAI Roberto Mange<br><span class="small">Melhor instituto não-oficial da Unicamp</span></li>
 			<li><b>Bandejão RU:</b> Restaurante Universitário<br><span class="small">Fica mais próximo da entrada da Avenida 2.</span></li>
 			<li><b>Bandejão RS:</b> Restaurante Universitário<br><span class="small">Fica mais próximo do IC 3.</span></li>
 			<li><b>Bandejão RA:</b> Restaurante Universitário<br><span class="small">Fica mais próximo da FEEC.</span></li>
+			<li><b>Star Clean:</b> Bar $$$<br><span class="small">O mais perto do CB</span></li>
+			<li><b>Star Trash:</b> Bar $<br><span class="small">Quando você só quer chapar</span></li>
+			<li><b>Marambar:</b> Bar $$<br><span class="small">Point da elétrica</span></li>
 		</ul>
 	</div>
 </section>

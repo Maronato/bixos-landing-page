@@ -36,6 +36,58 @@
 			</div>
 			<div class="drop">
 				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Socorro, passei mas não tenho onde morar!</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Não tema! Você pode encontrar reps, pensionatos e kits no <a href="http://morarunicamp.com.br/">Morar Unicamp</a>. Também pode encontrar ofertas no <a href="https://www.facebook.com/groups/repsunicamp/">grupo do Facebook</a> e, claro, pode perguntar pros seus veteranos. Boas chances de eles conhecerem algum lugar legal com vagas.
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Reps? Pensionatos? Kits? Qual é a melhor?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Depende
+					</p>
+					<p>
+								Repúblicas(reps) costumam ser mais baratas. As casas 'pertencem' aos estudantes, que têm que pagar todas as contas. Geralmente os quartos são divididos com 1+ pessoas, então o preço costuma ser menor que as outras opções
+							</p>
+							<p>
+								Pensionatos são casas normais, cujos quartos são alugados a estudantes. Possuem mais regras que as repúblicas, mas costumam ser mais bem cuidadas e mais caras. É mais fácil encontrar quartos individuais em pensionatos.
+							</p>
+							<p>
+								Kitnets são mini-apartamentos alugados. Representam a privacidade máxima, mas costumam ser a opção mais cara.
+							</p>
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Não tenho condições financeiras de morar na Unicamp. Como consigo ajuda?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						O Serviço de Apoio ao Estudante da Unicamp oferece várias bolsas-auxílio. Procure-os assim que possível para iniciar o processo de aprovação: <a href="https://www.servicosocial.sae.unicamp.br/index.php/bolsas">Mais informações</a>.
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i>Não sou de Campinas. Como volto pra casa?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Você pode pegar um ônibus na rodoviária, mas a Unicamp tem uma cultura muito forte de caronas. Use os <a href="https://www.facebook.com/groups/caronas.unicamp/">grupos oficiais</a> para reservar a sua! Você também pode pegar o <a href="http://www.massacritica.com/">Massa Crítica</a> que sai da Unicamp pra SP.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="faq_cat">
+			<div class="drop">
+				<div class="drop_question">
 					<span><i class="fa fa-plus"></i> Quando ocorrem as aulas no SENAI e como chego lá?</span>
 				</div>
 				<div class="drop_answer">
@@ -47,8 +99,6 @@
 					</p>
 				</div>
 			</div>
-		</div>
-		<div class="faq_cat">
 			<div class="drop">
 				<div class="drop_question">
 					<span><i class="fa fa-plus"></i> Como faço para pegar um livro nas bibliotecas?</span>
@@ -56,6 +106,36 @@
 				<div class="drop_answer">
 					<p>
 						Você deverá se cadastrar no sistema de bibliotecas da UNICAMP. Vá até a Biblioteca Central e cadastre-se o quanto antes!
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Socorro, não tenho material pro SENAI/Desenho técnico!</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Fique atento ao dia do Apadrinhamento. Nele, os veteranos passarão adiante os seus materiais.
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Umx veteranx me ofendeu no trote! O que eu faço?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Nós e a Unicamp não toleramos qualquer forma de trote violento ou opressão. Comunique o acontecido aos membros da comissão de trote ou <b>ligue para o disktrote: (19)3521-1449</b>
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Entrei, mas já quero fazer intercâmbio. Comofaz?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						A Unicamp tem centenas de parceria pra intercâmbio simples e duplo diploma. Você pode ver a lista completa de oferecimentos(que é atualizada ao longo do ano) <a href="http://www.internationaloffice.unicamp.br/editais-alunos/">na VRERI</a>.<br>Não achou a uni que você quer? Procure programas de visiting ou exchange student nela! Exemplo: <a href="https://college.harvard.edu/admissions/application-process/visiting-undergraduate-student-program">Harvard</a>.
 					</p>
 				</div>
 			</div>
@@ -94,17 +174,19 @@
 			<li><a href="http://www.sae.unicamp.br/portal/" target="_blank">SAE - (Bolsas)</a></li>
 			<li><a href="http://www.ccuec.unicamp.br/ccuec/redesemfio_eduroam" target="_blank">Tutorial: Acessar o Wifi da UNICAMP</a></li>
 			<li><a href="http://www.caco.ic.unicamp.br/portal/bancodeprovas/" target="_blank">Banco de Provas - CACo</a></li>
-			<li><a href="http://www.sbu.unicamp.br/portal/" target="_blank">SBU</a></li>
+			<li><a href="http://www.sbu.unicamp.br/portal/" target="_blank">SBU - Sistema de Bibliotecas</a></li>
 		</ol>
 		<ol class="listFixed">
 			<!-- <li><a href="http://static.aaacec.com.br/bixos/manual2017.pdf" target="_blank">Manual do Bixo - AAACEC</a></li> -->
-			<li><a href="http://gde.ir" target="_blank">GDE</a></li>
-			<li><a href="http://www.dac.unicamp.br/portal/grad/calendarios/calgra2017/" target="_blank">Calendário de Graduação 2017</a></li>
+			<li><a href="http://gde.ir" target="_blank">GDE - Rede Social da Unicamp</a></li>
+			<li><a href="https://www.dac.unicamp.br/portal/calendario/2018/graduacao/alunos" target="_blank">Calendário de Graduação 2018</a></li>
 			<li><a href="http://sap.prefeitura.unicamp.br/sap/pesquisa_achados_perdidos.jsf" target="_blank">Achados e Perdidos</a></li>
+			<li><a href="https://telegram.me/BandeconatoBot" target="_blank">Bot do Bandeco</a></li>
+			<li><a href="https://www.facebook.com/spottedunicamp2/" target="_blank">Spotted da Unicamp</a></li>
 		</ol>
 	</div>
 	<h3>Grupo do Facebook</h3>
-	<p style="margin-top: 0;">Se você ainda não faz parte do grupo "Bixos e Bixetes Engenharia Elétrica 017 - UNICAMP" peça a algum veterano para adicioná-lo!</p>
+	<p style="margin-top: 0;">Se você ainda não faz parte do grupo <a href="https://www.facebook.com/groups/148394132537049/">Bixos e Bixetes Engenharia Elétrica 018 - UNICAMP</a> peça a algum veterano para adicioná-lo!</p>
 	<footer>
 		Made with <a href="https://github.com/Maronato/bixos-landing-page" target="_blank"><i class="fa fa-heart"></i></a> by <a href="https://github.com/Maronato" target="_blank">Maronato</a> &amp; <a href="https://github.com/rmobis" target="_blank">Phapha</a> &amp; <a href="https://github.com/dsfugimoto" target="_blank">Serginho</a>
 	</footer>

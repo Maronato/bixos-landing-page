@@ -1,7 +1,7 @@
 
 <section id="extra" class="content">
 	<h1>Atividades extracurriculares: O que fazer na UNICAMP, além de estudar?</h1>
-	<h4>A parte legal da elétrica, tirando as aulas é claro!</h4>
+	<h4>A parte legal da elétrica, tirando as aulas é claro! (\s)</h4>
 	<h3>Entidades</h3>
 	<div class="entities clearfix">
 		<div class="entity">
@@ -50,15 +50,15 @@
 		</div>
 		<div class="entity">
 			<div class="entity_front">
-				<img src="img/see.svg" width="45%">
+				<img src="img/ales.svg" width="45%">
 			</div>
 			<div class="entity_back">
 				<span class="entity_text">
-					<h3>SEE</h3>
+					<h3>Projeto ALES</h3>
 					<p>
-						A Semana da Engenharia Elétrica busca apresentar aos participantes uma visão mais ampla das diversas áreas da Engenharia e aproximá-los da realidade de cada carreira através de palestras, minicursos e visitas técnicas.
+						O Projeto ALES é uma ONG social de educação que se orgulha de oferecer conteúdo extracurricular a crianças da rede pública. Com mais de 200 alunos em 3 cidades, levamos aulas de robótica, teatro, programação, dança, astronomia e muitas outras a alunos carentes todo final de semana na Unicamp.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="https://www.facebook.com/semanadeengenharia.eletrica" target="_blank">fb.com/semanadeengenharia.eletrica</a></p>
+					<p><i class="fa fa-link"></i> <a href="https://www.facebook.com/projetoales" target="_blank">fb.com/projetoales</a></p>
 				</span>
 			</div>
 		</div>
@@ -147,7 +147,7 @@
 	<h3 style="margin-botton: 0">Calendário de Eventos</h3>
 	<ul id="timeEvent" class="timeline">
 		<li class="li-1 clearfix" style="transform: translateY(100px); opacity: 0;">
-			<div class="timeline_date">Março</div>
+			<div class="timeline_date">Fevereiro</div>
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
@@ -161,18 +161,23 @@
 						<div>Choppada de Confirmação</div>
 						<div class="badge party">Social</div>
 					</div>
-					<div class="timeline_desc">Choppada oficial do curso, geralmente realizado em conjunto com os cursos de Enfermagem e Fonoaudiologia</div>
-				</li>
-				<li>
-					<div class="timeline_title">
-						<div>Subindo o Morro 2017</div>
-						<div class="badge party">Social</div>
-					</div>
-					<div class="timeline_desc">Campinas Hall juntamente com as atléticas AAAXD e AAAFEAGRI orgulhosamente apresentam a quarta edição da festa funk mais tradicional de Campinas: Subindo o Morro!</div>
+					<div class="timeline_desc">Choppada oficial do curso!</div>
 				</li>
 			</ul>
 		</li>
 		<li class="li-2 clearfix" style="transform: translateY(100px); opacity: 0;">
+			<div class="timeline_date">Março</div>
+			<ul class="timeline_events">
+				<li>
+					<div class="timeline_title">
+						<div>Subindo o Morro 2018</div>
+						<div class="badge party">Social</div>
+					</div>
+					<div class="timeline_desc">Campinas Hall juntamente com as atléticas AAAXD e AAAFEAGRI orgulhosamente apresentam a quinta edição da festa funk mais tradicional de Campinas: Subindo o Morro!</div>
+				</li>
+			</ul>
+		</li>
+		<li class="li-3 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Abril</div>
 			<ul class="timeline_events">
 				<li>
@@ -184,14 +189,14 @@
 				</li>
 				<li>
 					<div class="timeline_title">
-						<div>CHOPPADA DES BIXES 2017</div>
+						<div>CHOPPADA DES BIXES 2018</div>
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">Biologia, Elétrica e Farmácia apresentam: CHOPPADA DES BIXES 2017!!!</div>
 				</li>
 			</ul>
 		</li>
-		<li class="li-3 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-4 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Maio</div>
 			<ul class="timeline_events">
 				<li>
@@ -203,7 +208,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-4 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-5 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Junho</div>
 			<ul class="timeline_events">
 				<li>
@@ -216,7 +221,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-5 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-6 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Agosto</div>
 			<ul class="timeline_events">
 				<li>
@@ -228,12 +233,12 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-6 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-7 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date set">Setembro</div>
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
-						<div>InterHack 2017</div>
+						<div>InterHack 2018</div>
 						<div class="badge">Acadêmico</div>
 						<div class="badge party">Social</div>
 					</div>
@@ -256,7 +261,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-7 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-8 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Outubro</div>
 			<ul class="timeline_events">
 				<li>
@@ -268,12 +273,12 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-7 clearfix" style="transform: translateY(100px); opacity: 0;">
+		<li class="li-9 clearfix" style="transform: translateY(100px); opacity: 0;">
 			<div class="timeline_date">Novembro</div>
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
-						<div>MC Lovin' Party 6</div>
+						<div>MC Lovin' Party 7</div>
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">A maior festa em república da UNICAMP!</div>
@@ -283,7 +288,7 @@
 	</ul>
 
 	<h3>Cursos diversos</h3>
-	<p>Fiquem ligados, pois existem diversos cursos sendo oferecidos dentro da UNICAMP, seja do seu curso ou não! Dentre eles destacam-se as <a style="color:#FF6D00;" href="http://fefnet172.fef.unicamp.br/forms/re-codesp/tabelao3.asp?periodo_fk=63" target="_blank">atividades da FEF</a>,  <a style="color:#FF6D00;" href="http://www.cabs.fee.unicamp.br/?t=6_Curso-de-Linguas" target="_blank">aulas de idiomas do CABS/CEL</a> e até <a style="color:#FF6D00;" href="http://ogrupodedanca.com.br/" target="_blank">aulas de dança!</a></p>
+	<p>Fiquem ligados, pois existem diversos cursos sendo oferecidos dentro da UNICAMP, seja do seu curso ou não! Dentre eles destacam-se as <a style="color:#FF6D00;" href="http://fefnet172.fef.unicamp.br/forms/re-codesp/tabelao3.asp?periodo_fk=63" target="_blank">atividades da FEF</a>,  <a style="color:#FF6D00;" href="http://www.cabs.fee.unicamp.br/?t=6_Curso-de-Linguas" target="_blank">aulas de idiomas do CABS/CEL</a>, os incríveis <a href="http://www.extecamp.unicamp.br/extensao.asp"> cursos de extensão</a> e até <a style="color:#FF6D00;" href="http://ogrupodedanca.com.br/" target="_blank">aulas de dança!</a></p>
 <!--
 	<h3>Ensaios da Valorosa</h3>
 	<p>Assim como os treinos, qualquer aluno pode participar, mesmo que não saiba tocar nenhum instrumento! Se esse for o caso, não perca a chance!</p> -->
