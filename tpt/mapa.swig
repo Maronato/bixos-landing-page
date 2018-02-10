@@ -6,7 +6,7 @@
 	<p>Nos Restaurantes Universitários, comumente chamados de "Bandejão", o preço da refeição é de <b style="font-size: 1em;">R$ <s>2,00</s> 3,00 para estudantes</b>. Você deve carregar sua <b style="font-size: 1em;">carteira estudantil</b> nos postos de recarga localizados do lado externo dos restaurantes para utilizá-los.</p>
 	<p>Os restaurantes mais utilizados são: Restaurante Universitário (RU), Refeitório da Administração (RA) e Restaurante da Saturnino (RS). Vale lembrar que há um cardápio vegetariano, no entanto o mesmo só é servido no RS.
 	<a href="http://www.prefeitura.unicamp.br/servicos/divisao-de-alimentacao/cardapio-dos-restaurantes" target="_blank">Cardápio dos Restaurantes</a></p>
-	<b>Tem Telegram? Use o <a href="@BandeconatoBot" target="_blank">Bot do Bandeco</a>!</b>
+	<b>Tem Telegram? Use o <a href="https://telegram.me/BandeconatoBot" target="_blank">Bot do Bandeco</a>!</b>
 
 	<h3>Circulares</h3>
 	<p>A UNICAMP possui 3 linhas de circulares que são gratuitos e facilitam a vida de quem necessita se deslocar pelo campus.</p>
