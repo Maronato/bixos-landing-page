@@ -41,8 +41,8 @@
 				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
 				<option data-method="walking" value="-22.8225874,-47.0661378">Bandejão (RA)</option>
 				<option data-method="walking" value="-22.8190715,-47.0731202">Star Clean</option>
-				<option data-method="walking" value="-22.8189718,-47.0739587">Star Trash</option>
-				<option data-method="walking" value="-22.820762,-47.0720151">Marambar</option>
+				<option data-method="walking" value="-22.819509, -47.073297">Star Trash</option>
+				<option data-method="walking" value="-22.822222, -47.070276">Marambar</option>
 			</select>
 		</div>
 		<div>Para: </div>
@@ -58,8 +58,8 @@
 				<option data-method="walking" value="-22.815311,-47.062655">Bandejão (RS)</option>
 				<option data-method="walking" value="-22.8225874,-47.0661378">Bandejão (RA)</option>
 				<option data-method="walking" value="-22.8190715,-47.0731202">Star Clean</option>
-				<option data-method="walking" value="-22.8189718,-47.0739587">Star Trash</option>
-				<option data-method="walking" value="-22.820762,-47.0720151">Marambar</option>
+				<option data-method="walking" value="-22.819509, -47.073297">Star Trash</option>
+				<option data-method="walking" value="-22.822222, -47.070276">Marambar</option>
 			</select>
 		</div>
 		<div>Transporte: </div>
