@@ -5,6 +5,7 @@
   		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" >
 		<meta name="mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-capable" content="yes">
+		<link rel="icon" type="image/png" href="img/unicamp.png" />
 		<link href='//fonts.googleapis.com/css?family=Raleway:400,200,300|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="css/bixos.min.css">
