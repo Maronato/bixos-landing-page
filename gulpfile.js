@@ -13,6 +13,7 @@ let gulp = require('gulp'),
 	notify = require('gulp-notify'),
 	livereload = require('gulp-livereload'),
 	http = require('http'),
+	ghPages = require('gulp-gh-pages'),
 	st = require('st');
 
 const vendor = {
@@ -40,6 +41,11 @@ gulp.task('webserver', function() {
 			cache: false
 		})
 	).listen(8080);
+});
+
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+    .pipe(ghPages());
 });
 
 gulp.task('styles', function() {

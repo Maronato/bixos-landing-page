@@ -35,7 +35,7 @@
 		<div class="stat">
 			<h5>FEEC</h5>
 			<div class="stat_number">
-				<span class="odometer" data-odometer-value="47">0</span>
+				<span class="odometer" data-odometer-value="52">0</span>
 			</div>
 			<div class="stat_detail">
 				<p><i class="fa fa-clock-o"></i> Anos</p>
