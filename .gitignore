@@ -2,6 +2,7 @@
 
 ### Distribution Folder ###
 dist
+.publish
 
 ### SublimeText ###
 # cache files for sublime text
