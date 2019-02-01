@@ -15,7 +15,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-2 clearfix" data-anchor-target="#calendario .timeline .li-2" style="transform: translateY(100px); opacity: 0;" data--350-bottom="transform: translateY(0px); opacity: 1;">
+		<li class="li-2 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">14/02</div>
 			<ul class="timeline_events">
 				<li>
@@ -27,7 +27,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-4 clearfix" data-anchor-target="#calendario .timeline .li-3" style="transform: translateY(100px); opacity: 0;" data--350-bottom="transform: translateY(0px); opacity: 1;">
+		<li class="li-3 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">18/02</div>
 			<ul class="timeline_events">
 				<li>
@@ -38,6 +38,8 @@
 					<div class="timeline_desc">Das 9:00 às 12:00. Para ingressantes da 2ª chamadas</div>
 				</li>
 			</ul>
+		</li>
+		<li class="li-4 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">20/02</div>
 			<ul class="timeline_events">
 				<li>
@@ -50,7 +52,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-5 clearfix" data-anchor-target="#calendario .timeline .li-4" style="transform: translateY(100px); opacity: 0;" data--350-bottom="transform: translateY(0px); opacity: 1;">
+		<li class="li-5 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">22/02</div>
 			<ul class="timeline_events">
 				<li>
@@ -62,7 +64,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="li-6 clearfix" data-anchor-target="#calendario .timeline .li-5" style="transform: translateY(100px); opacity: 0;" data--350-bottom="transform: translateY(0px); opacity: 1;">
+		<li class="li-6 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">25/02</div>
 			<ul class="timeline_events">
 				<li>
@@ -80,6 +82,8 @@
 					<div class="timeline_desc">A primeira festa da Engenharia Elétrica! (Entrada de bixo e bixete é grátis!)</div>
 				</li>
 			</ul>
+		</li>
+		<li class="li-7 clearfix" data-anchor-target="#calendario" style="transform: translateY(100px); opacity: 0;" data-top="transform: translateY(0px); opacity: 1;">
 			<div class="timeline_date">27/02</div>
 			<ul class="timeline_events">
 				<li>

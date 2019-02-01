@@ -5,8 +5,8 @@ Esta é a landing page com o objetivo de ajudar os bixos e introduzi-los ao mund
 ## Contribuições
 
 Para contribuir com o projeto, basta dar sua opinião ou sugestão em uma de nossas
-reuniões, abrir uma [issue](https://github.com/AAACEC/bixos-landing-page/issues)
-ou submeter um [pull request](https://github.com/AAACEC/bixos-landing-page/pulls).
+reuniões, abrir uma [issue](https://github.com/maronato/bixos-landing-page/issues)
+ou submeter um [pull request](https://github.com/maronato/bixos-landing-page/pulls).
 Já existe uma lista de tarefas a serem feitas, que pode ser consultada abaixo:
 
 ## Instruções para rodar local
@@ -36,12 +36,10 @@ Configurado o ambiente local, execute
 
 ## Manutenção
 
-O projeto é atualmente desenvolvido e mantido pelos membros abaixo. Para conversar
-ou tirar dúvidas mais específicas, sinta-se a vontade para entrar em contato:
-
-- [David Fugimoto (a.k.a Serginho)](https://github.com/dsfugimoto)
-- [Raphael Mobis (a.k.a Phapha)](https://github.com/rmobis)
-
 Esse fork é mantido por:
 
 - [Gustavo Maronato](https://github.com/Maronato)
+
+Originalmente desenvolvido por:
+- [David Fugimoto (a.k.a Serginho)](https://github.com/dsfugimoto)
+- [Raphael Mobis (a.k.a Phapha)](https://github.com/rmobis)

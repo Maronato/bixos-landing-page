@@ -6,7 +6,7 @@ let gulp = require('gulp'),
 	autoprefixer = require('gulp-autoprefixer'),
 	eslint = require('gulp-eslint'),
 	uglify = require('gulp-uglify'),
-	minifycss = require('gulp-clean-css'),
+	minifycss = require('gulp-minify-css'),
 	imagemin = require('gulp-imagemin'),
 	rename = require('gulp-rename'),
 	concat = require('gulp-concat'),
@@ -14,13 +14,6 @@ let gulp = require('gulp'),
 	livereload = require('gulp-livereload'),
 	http = require('http'),
 	st = require('st');
-
-var ghPages = require('gulp-gh-pages');
-
-gulp.task('deploy', function() {
-  return gulp.src('./dist/**/*')
-    .pipe(ghPages());
-});
 
 const vendor = {
 	scripts: [

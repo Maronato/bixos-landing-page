@@ -227,7 +227,7 @@
 			</ul>
 		</li>
 		<li class="li-7 clearfix" style="transform: translateY(100px); opacity: 0;">
-			<div class="timeline_date set">Setembro</div>
+			<div class="timeline_date">Setembro</div>
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
