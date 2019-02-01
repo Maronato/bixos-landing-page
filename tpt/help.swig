@@ -80,7 +80,7 @@
 				</div>
 				<div class="drop_answer">
 					<p>
-						Você pode pegar um ônibus na rodoviária, mas a Unicamp tem uma cultura muito forte de caronas. Use os <a href="https://www.facebook.com/groups/caronas.unicamp/">grupos oficiais</a> para reservar a sua! Você também pode pegar o <a href="http://www.massacritica.com/">Massa Crítica</a> que sai da Unicamp pra SP.
+						Você pode pegar um ônibus na rodoviária, mas a Unicamp possui uma cultura muito forte de caronas. A melhor forma é utilzar o <a href="https://app.unicaronas.com/">Unicaronas</a>, um site de caronas criado por alunos da Unicamp. Além disso o Facebook possui <a href="https://www.facebook.com/groups/caronas.unicamp/">grupos de carona</a> que aparecem nas pesquisas do Unicaronas. Você também pode pegar o <a href="http://www.massacritica.com/">Massa Crítica</a> que sai da Unicamp pra SP.
 					</p>
 				</div>
 			</div>
@@ -125,7 +125,7 @@
 				</div>
 				<div class="drop_answer">
 					<p>
-						Nós e a Unicamp não toleramos qualquer forma de trote violento ou opressão. Comunique o acontecido aos membros da comissão de trote ou <b>ligue para o disktrote: (19)3521-1449</b>
+						Nós e a Unicamp não toleramos qualquer forma de trote violento ou opressão. Comunique o acontecido aos membros da comissão de trote ou <b style="font-size: 1.2em">ligue para o disktrote: (19)3521-1449</b>
 					</p>
 				</div>
 			</div>
@@ -179,15 +179,16 @@
 		</ol>
 		<ol class="listFixed">
 			<!-- <li><a href="http://static.aaacec.com.br/bixos/manual2017.pdf" target="_blank">Manual do Bixo - AAACEC</a></li> -->
+			<li><a href="https://app.unicaronas.com" target="_blank">Unicaronas</a></li>
 			<li><a href="http://gde.ir" target="_blank">GDE - Rede Social da Unicamp</a></li>
-			<li><a href="https://www.dac.unicamp.br/portal/calendario/2018/graduacao/alunos" target="_blank">Calendário de Graduação 2018</a></li>
+			<li><a href="https://www.dac.unicamp.br/portal/calendario/2019/graduacao/alunos" target="_blank">Calendário de Graduação 2019</a></li>
 			<li><a href="http://sap.prefeitura.unicamp.br/sap/pesquisa_achados_perdidos.jsf" target="_blank">Achados e Perdidos</a></li>
 			<li><a href="https://telegram.me/BandeconatoBot" target="_blank">Bot do Bandeco</a></li>
 			<li><a href="https://www.facebook.com/spottedunicamp2/" target="_blank">Spotted da Unicamp</a></li>
 		</ol>
 	</div>
 	<h3>Grupo do Facebook</h3>
-	<p style="margin-top: 0;">Se você ainda não faz parte do grupo <a href="https://www.facebook.com/groups/148394132537049/">Bixos e Bixetes Engenharia Elétrica 018 - UNICAMP</a> peça a algum veterano para adicioná-lo!</p>
+	<p style="margin-top: 0;">Se você ainda não faz parte do grupo <a href="https://www.facebook.com/groups/2253238154727297/">Bixos e Bixetes Engenharia Elétrica 019 - UNICAMP</a> peça a algum veterano para adicioná-lo!</p>
 	<footer>
 		Made with <a href="https://github.com/Maronato/bixos-landing-page" target="_blank"><i class="fa fa-heart"></i></a> by <a href="https://github.com/Maronato" target="_blank">Maronato</a> &amp; <a href="https://github.com/rmobis" target="_blank">Phapha</a> &amp; <a href="https://github.com/dsfugimoto" target="_blank">Serginho</a>
 	</footer>

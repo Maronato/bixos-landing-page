@@ -12,10 +12,10 @@
 				<span class="entity_text">
 					<h3>AAAFEE</h3>
 					<p>
-						A Associação Atlética Acadêmica da Ciência e Engenharia da Computação é a entidade que promove
-						a prática de esportes na Computação, além de realizar festas e eventos de integração.
+						A Associação Atlética Acadêmica da Engenharia Elétrica é a entidade que promove
+						a prática de esportes na Elétrica, além de realizar festas e eventos de integração.
 					</p>
-					<p><i class="fa fa-link"></i> <a href="http://aaacec.com.br/" target="_blank">http://aaacec.com.br</a></p>
+					<p><i class="fa fa-link"></i> <a href="https://www.facebook.com/AAAFEE/" target="_blank">https://www.facebook.com/AAAFEE/</a></p>
 				</span>
 			</div>
 		</div>
@@ -170,7 +170,7 @@
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
-						<div>Subindo o Morro 2018</div>
+						<div>Subindo o Morro 2019</div>
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">Campinas Hall juntamente com as atléticas AAAXD e AAAFEAGRI orgulhosamente apresentam a quinta edição da festa funk mais tradicional de Campinas: Subindo o Morro!</div>
@@ -187,13 +187,6 @@
 					</div>
 					<div class="timeline_desc">Uma prévia do maior torneio esportivo dentro do campus</div>
 				</li>
-				<li>
-					<div class="timeline_title">
-						<div>CHOPPADA DES BIXES 2018</div>
-						<div class="badge party">Social</div>
-					</div>
-					<div class="timeline_desc">Biologia, Elétrica e Farmácia apresentam: CHOPPADA DES BIXES 2017!!!</div>
-				</li>
 			</ul>
 		</li>
 		<li class="li-4 clearfix" style="transform: translateY(100px); opacity: 0;">
@@ -205,15 +198,6 @@
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">A festa eletrônica oficial da Computação! Conta com a presença de grandes nomes do cenário</div>
-				</li>
-				<li>
-					<div class="timeline_title">
-						<div>Semana das Minas</div>
-						<div class="badge party">Acadêmico</div>
-					</div>
-					<div class="timeline_desc">A Semana das Minas foi criada para
-					empoderar outras alunas e dar visibilidade à luta
-					feminista dentro da FEEC.</div>
 				</li>
 			</ul>
 		</li>
@@ -247,14 +231,6 @@
 			<ul class="timeline_events">
 				<li>
 					<div class="timeline_title">
-						<div>InterHack 2018</div>
-						<div class="badge">Acadêmico</div>
-						<div class="badge party">Social</div>
-					</div>
-					<div class="timeline_desc">Primeiro Hackathon Interuniversitário do Brasil, de Graça!</div>
-				</li>
-				<li>
-					<div class="timeline_title">
 						<div>Olimpíadas</div>
 						<div class="badge sports">Esportivo</div>
 					</div>
@@ -279,18 +255,6 @@
 						<div class="badge party">Social</div>
 					</div>
 					<div class="timeline_desc">A melhor festa no estilo da tradição alemã!</div>
-				</li>
-			</ul>
-		</li>
-		<li class="li-9 clearfix" style="transform: translateY(100px); opacity: 0;">
-			<div class="timeline_date">Novembro</div>
-			<ul class="timeline_events">
-				<li>
-					<div class="timeline_title">
-						<div>MC Lovin' Party 7</div>
-						<div class="badge party">Social</div>
-					</div>
-					<div class="timeline_desc">A maior festa em república da UNICAMP!</div>
 				</li>
 			</ul>
 		</li>
