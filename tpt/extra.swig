@@ -175,6 +175,13 @@
 					</div>
 					<div class="timeline_desc">Campinas Hall juntamente com as atléticas AAAXD e AAAFEAGRI orgulhosamente apresentam a quinta edição da festa funk mais tradicional de Campinas: Subindo o Morro!</div>
 				</li>
+				<li>
+					<div class="timeline_title">
+						<div>Bixo de 7 Cabeças</div>
+						<div class="badge party">Social</div>
+					</div>
+					<div class="timeline_desc">Festa tradicional das Engenharias Agrícola, Alimentos, Civil, Controle e Automação, Elétrica, Mecânica e Química!</div>
+				</li>
 			</ul>
 		</li>
 		<li class="li-3 clearfix" style="transform: translateY(100px); opacity: 0;">

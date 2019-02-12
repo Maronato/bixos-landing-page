@@ -95,7 +95,7 @@
 						A primeira aula do SENAI ocorre no sábado pela manhã, onde vocês receberão o calendário com as manhãs e tardes nas quais ocorrerão as próximas aulas. Nem todos tem aulas nos mesmos sábados nem nos mesmos turnos, fiquem ligados.
 					</p>
 					<p>
-						A FEEC freta um ônibus para levar os alunos até o SENAI. O ônibus sai do estacionamento da Biblioteca Central (BCCL) por vota das 6h00min. Verifiquem com seus veteranos do CABS sobre possíveis mudanças neste horário. É comum haver alterações e cancelamentos do ônibus sem aviso aos alunos.
+						<s>A FEEC freta um ônibus para levar os alunos até o SENAI</s>. Você vai ter que se virar pra ir pra lá. A sua melhor opção é fazer amizade com xs bixes que tem carro e pegar carona, ou dividir um Uber com a galera :(
 					</p>
 				</div>
 			</div>
@@ -131,6 +131,19 @@
 			</div>
 			<div class="drop">
 				<div class="drop_question">
+					<span><i class="fa fa-plus"></i> Todo mundo fala desse negócio chamado "crédito". O que é isso?</span>
+				</div>
+				<div class="drop_answer">
+					<p>
+						Crédito é o nome oficial dado à carga horária de aulas na Unicamp. Cada crédito equivale a <s>uma hora</s> 50 min de aula por semana.
+					</p>
+					<p>
+						Ou seja, se você pegou uma matéria que tem 4 créditos, você vai ter 4 horas dessa matéria toda semana. Isso vai ser mais importante no segundo semestre, quando você começar a montar a sua própria grade horária e precisar saber se você pegou matérias demais ou não.
+					</p>
+				</div>
+			</div>
+			<div class="drop">
+				<div class="drop_question">
 					<span><i class="fa fa-plus"></i> Entrei, mas já quero fazer intercâmbio. Comofaz?</span>
 				</div>
 				<div class="drop_answer">
@@ -158,6 +171,7 @@
 			<li>A partir do 2º semestre, use o <a href="http://gde.ir" target="_blank">GDE</a> para organizar sua grade de disciplinas!</li>
 			<li>As disciplinas oferecidas pelo IFGW (Instituto de física) possuem média 7, as demais possuem média 5</li>
 			<li>Peça conselhos e informações aos seus veteranos! Eles não mordem! (pelo menos a maioria)</li>
+			<li>Não pegue mais que 32 créditos. 26 é o número de ouro pra a maioria dos veteranos.</li>
 		</ol>
 		<ol class="listFixed">
 			<li>Precisando de atendimento de saúde? Vá até o <a href="http://www.cecom.unicamp.br/" target="_blank">CECOM</a>, é de graça!</li>
